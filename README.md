@@ -25,7 +25,7 @@ Making a model a classifying model on a financial dataset
 - Constructed and tuned an XGBoost classifier for the dataset.
 - Evaluated the model using accuracy metrics
 
-#### Libraries used:
+### Libraries used:
   - `numpy`
   - `pandas`
   - `matplotlib`
